@@ -26,6 +26,4 @@ Power实验室，规模不小， Funding主要和海军有关 据说不差钱 �
 [Yuan Li](https://eng.famu.fsu.edu/ece/people/li-yuan)：女，小 AP 2007年 PhD@武汉大学，曾在四川大学任教，于 2018年
 和 Fang Z. Peng一同加入 FSU。研究领域主要为逆变器，光伏等。
 
----
-[Jinyeong Moon](https://eng.famu.fsu.edu/ece/people/moon)：小 AP，韩国人 2016年 PhD@MIT Leeb的学生，于 2018年
-加入 FSU。研究领域主要为 无线电能传输 ，Energy harvest, 储能系统。
+
